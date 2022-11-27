@@ -1,0 +1,22 @@
+*
+{
+    margin: 10PX;
+    padding: 10px;
+}
+body{
+    background-color: #FF7133;
+    
+}
+header{
+    height: 500px;
+    width: 100%;
+    background: url(img/img4.jpg) no-repeat center;
+    text-align: center;
+}   
+nav{
+    height: 1000px;
+    width: 100%;
+    background-color:darkgoldenrod;
+    background: url(img/img111.jpg.png) no-repeat center;
+   
+}

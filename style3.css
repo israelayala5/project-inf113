@@ -1,0 +1,23 @@
+*
+{
+    margin: 10PX;
+    padding: 10px;
+}
+body{
+    background-color: darkcyan;
+    
+}
+header{
+    height: 500px;
+    width: 100%;
+    background: url(img/img2.jpg) no-repeat center;
+    text-align: center;
+}   
+nav{
+    height: 700px;
+    width: 100%;
+    background-color:darkgoldenrod;
+    background: url(img/img9.jpg.png) no-repeat center;
+   
+}
+
